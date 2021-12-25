@@ -1,0 +1,24 @@
+{
+  "name": "@etcpack/commonjs-plug",
+  "version": "0.1.0",
+  "description": "📦 用于兼容一些CommonJS规范导出的npm包",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etcpack/commonjs-plug.git"
+  },
+  "keywords": [
+    "etcpack",
+    "plain",
+    "loader"
+  ],
+  "author": "你好2007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etcpack/commonjs-plug/issues"
+  },
+  "homepage": "https://github.com/etcpack/commonjs-plug#readme",
+  "dependencies": {
+    "@hai2007/tool": "^1.0.0"
+  }
+}

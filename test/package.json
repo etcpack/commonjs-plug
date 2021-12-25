@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "scripts": {
+    "dev": "etcpack_dev --config etcpack.dev.js",
+    "build": "etcpack_pkg --config etcpack.prod.js"
+  },
+  "devDependencies": {
+    "etcpack": "^0.5.4"
+  }
+}
