@@ -6,5 +6,9 @@
   },
   "devDependencies": {
     "etcpack": "^0.5.4"
+  },
+  "dependencies": {
+    "@hai2007/tool": "^1.0.0",
+    "image2d": "^1.16.2"
   }
 }
