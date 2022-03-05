@@ -35,4 +35,4 @@ plug: [new CommonjsPlug()]
 ---------------------------------------
 [MIT](https://github.com/etcpack/commonjs-plug/blob/master/LICENSE)
 
-Copyright (c) 2021 [hai2007](https://hai2007.gitee.io/sweethome/) 走一步，再走一步。
+Copyright (c) 2021-2022 [hai2007](https://hai2007.gitee.io/sweethome/) 走一步，再走一步。
